@@ -1,0 +1,9 @@
+node_modules
+*.css
+.next
+.git
+.storybook
+.vscode
+config
+out
+templates
